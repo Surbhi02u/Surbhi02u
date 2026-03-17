@@ -47,12 +47,12 @@
   - Uses event handling, arrays, and timing functions
   - Improves focus on logic building and user interaction
 
-- **Wanderlust Website (Currently Working On)**
+- **Wanderlust Website **
   - Full-stack web application inspired by Airbnb-like listings
   - Built using Node.js, Express.js, MongoDB, and EJS
   - Implements CRUD operations, authentication, and dynamic pages
-  - Currently focusing on improving backend logic and UI
-
+  - Implements CRUD operations, authentication, and dynamic pages applied MVC architecture with modular backend routing and database schema design
+  - developed the application and optimised performance
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Surbhi Rana) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:surbhi02universe@gmail.com) 
