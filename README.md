@@ -2,12 +2,11 @@
 **A Computer Science student || aspiring Full-Stack Web Developer**
 
 ### 👩‍💻 About Me
-- 🎓 2nd year B.Tech student (CSE)
-- 🌱 Currently learning Full-Stack Web Development
-- 🛠️ Interested in building practical projects rather than just theory
-- 🧠 Curious about how backend systems work
-- 📈 Actively working on improving my GitHub and coding skills
-- 💬 Open to learning, feedback, and collaboration
+- 🎓 Pre-Final Year B.Tech CSIT Student
+- 💡 Interested in Software Engineering and Problem Solving
+- 💻 Solving DSA in C++
+- 🌱 Learning Backend Development and System Design
+- 🚀 Open to Software Engineering Internship opportunities
 
 ### 🧰 Tech Stack
 
